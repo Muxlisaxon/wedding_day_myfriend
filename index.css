@@ -15,10 +15,10 @@
 
 
 body {
-    background: url(./img/istockphoto-1190043570-612x612.jpg);
+    background: url(./img/bbbbbbbbbbbbbbbbbb.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center ;
     background-size: cover;
 }
 
@@ -65,8 +65,8 @@ body {
 }
 
 .box {
-    width: 28vmin;
-    height: 29vmin;
+    width: 20vmin;
+    height: 25vmin;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -101,7 +101,7 @@ span.text {
     background-color: var(--color-white);
     color: var(--color-black);
     display: block;
-    width: 80%;
+    width: 60%;
     position: relative;
     text-align: center;
     bottom: 20px;
